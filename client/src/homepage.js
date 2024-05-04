@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import './HomePage.css';
+import './homepage.css';
 
 function HomePage() {
     const [contracts, setContracts] = useState([]);
